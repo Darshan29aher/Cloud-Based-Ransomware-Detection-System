@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+venv/
+env/
+
+# Environment variables
+.env
+
+# Database
+database/*.db
+
+# Reports
+reports/*.pdf
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# macOS/Linux
+.DS_Store
+
+# Google Cloud credentials
+*.json
+
+# Flask
+instance/
