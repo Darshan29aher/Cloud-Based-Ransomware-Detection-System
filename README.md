@@ -287,7 +287,7 @@ Then embed them:
 
 **Darshan Aher**
 
-Cybersecurity | Cloud Security | Python | Google Cloud
+Cybersecurity | Cloud Security | Google Cloud | AWS
 
 GitHub:
 
