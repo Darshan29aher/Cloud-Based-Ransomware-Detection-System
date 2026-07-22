@@ -239,36 +239,34 @@ When suspicious behavior exceeds configured thresholds, the application:
 
 # 📸 Screenshots
 
-Add screenshots here after uploading them.
+## 🏠 Dashboard
 
-Example:
-
-```
-screenshots/
-    dashboard.png
-    events.png
-    threats.png
-    reports.png
-    settings.png
-```
-
-Then embed them:
-
-```markdown
-## Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-## Threats
-
-![Threats](screenshots/threats.png)
-
-## Reports
-
-![Reports](screenshots/reports.png)
-```
+<img width="949" alt="Dashboard" src="https://github.com/user-attachments/assets/023b995d-2914-4829-bac6-e60687bfb77b" />
 
 ---
+
+## 📋 Events
+
+<img width="945" alt="Events" src="https://github.com/user-attachments/assets/5a3a3339-4bf9-4d5c-b6be-8c8a58420920" />
+
+---
+
+## 🚨 Threat Detection
+
+<img width="933" alt="Threats" src="https://github.com/user-attachments/assets/beedcc2c-e3ea-4585-9b3c-acfa621ad44f" />
+
+---
+
+## 📄 Reports
+
+<img width="957" alt="Reports" src="https://github.com/user-attachments/assets/8e6e558a-ca05-4b2d-b439-ae47ca6e0d20" />
+
+---
+
+## 📧 Email Alert
+
+<img width="266" alt="Email Alert" src="https://github.com/user-attachments/assets/1b7bea2f-b2ac-458b-b595-3e3e6caa64d4" />
+
 
 # 🔮 Future Enhancements
 
