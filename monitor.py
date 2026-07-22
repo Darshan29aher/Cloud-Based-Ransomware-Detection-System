@@ -10,7 +10,16 @@ from email_alert import send_email
 from datetime import datetime
 import time
 import os
+# Create honeypot folder and sample files if they don't exist
 
+os.makedirs("honeypot", exist_ok=True)
+
+for i in range(1, 16):
+    filename = os.path.join("honeypot", f"file{i}.txt")
+
+    if not os.path.exists(filename):
+        with open(filename, "w") as f:
+            f.write(f"Sample monitored file {i}\n")
 # ==============================
 # Configuration
 # ==============================

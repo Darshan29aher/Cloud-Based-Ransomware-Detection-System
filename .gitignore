@@ -28,3 +28,9 @@ reports/*.pdf
 
 # Flask
 instance/
+
+# Generated honeypot files
+honeypot/file*.txt
+
+# Keep the honeypot folder
+!honeypot/.gitkeep
